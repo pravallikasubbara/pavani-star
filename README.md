@@ -32,7 +32,12 @@ _**italic and bold**_
     * year2d
     
 pravallika is a bad girl
+
 pavani is a good girl
 
 naseema is nice girl
+
 nag is naughty
+
+## blocked text
+cse blocke A
