@@ -10,3 +10,7 @@ __another bold__
 *italic foramat*
 
 _another italicformat_
+
+_**italic and bold**_
+
+
